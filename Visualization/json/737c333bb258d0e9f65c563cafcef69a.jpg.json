@@ -1,0 +1,38 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2000,
+        "width": 3008
+    },
+    "objects": [
+        {
+            "id": 797506834,
+            "classId": 7031627,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "kolyanchi",
+            "createdAt": "2021-09-07T19:40:07.239Z",
+            "updatedAt": "2021-09-07T19:40:07.239Z",
+            "tags": [],
+            "classTitle": "Triangle",
+            "points": {
+                "exterior": [
+                    [
+                        1245,
+                        1093
+                    ],
+                    [
+                        1865,
+                        1075
+                    ],
+                    [
+                        1541,
+                        1255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
